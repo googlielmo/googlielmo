@@ -3,7 +3,7 @@
 - 👀 I’m interested in distributed systems 🕸️, cloud computing ☁️, and compilers 🐉
 - 🌱 I’m learning Rust 🦀
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 Drop me a line at <my github username> on Twitter or Keybase
+- 📫 Drop me a line at `@googlielmo` on [Mastodon @discuss.systems](https://discuss.systems/@googlielmo), [Twitter](https://twitter.com/googlielmo), or [Keybase](https://keybase.io/googlielmo)
 
 <!---
 googlielmo/googlielmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
