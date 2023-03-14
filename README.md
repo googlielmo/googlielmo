@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @googlielmo
 - 🏡 I live in 🇮🇹
 - 👀 I’m interested in distributed systems 🕸️, cloud computing ☁️, and compilers 🐉
-- 🌱 I’m learning Rust 🦀
+- 🌱 I’m learning Zig ⚡ and Rust 🦀
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Drop me a line at `@googlielmo` on [Mastodon @discuss.systems](https://discuss.systems/@googlielmo), [Twitter](https://twitter.com/googlielmo), or [Keybase](https://keybase.io/googlielmo)
 
