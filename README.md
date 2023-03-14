@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @googlielmo
 - 🏡 I live in 🇮🇹
+- 🏢 I’m working with amazing people at Sysdig 🐙
 - 👀 I’m interested in distributed systems 🕸️, cloud computing ☁️, and compilers 🐉
 - 🌱 I’m learning Zig ⚡ and Rust 🦀
 - 💞️ I’m looking to collaborate on interesting projects
